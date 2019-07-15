@@ -8,6 +8,6 @@ I visualised the data and created dummies for the categorical data and then went
 
 I divided the dataset into test and train sets and using the RFE we determined the important variables affecting the sales.
 
-Looking at the P-values and the VIF's we decided on the features to retain in our model.
+Looking at the P-values and the VIF's i decided on the features to retain in our model.
 
 Doing the residual analysis on the train data to see for it's normality assumption and then using our model on the test data.
